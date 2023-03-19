@@ -1,0 +1,15 @@
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HW_4\Задача№27\bin\Debug\net7.0\Задача№27.exe
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HW_4\Задача№27\bin\Debug\net7.0\Задача№27.deps.json
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HW_4\Задача№27\bin\Debug\net7.0\Задача№27.runtimeconfig.json
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HW_4\Задача№27\bin\Debug\net7.0\Задача№27.dll
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HW_4\Задача№27\bin\Debug\net7.0\Задача№27.pdb
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HW_4\Задача№27\obj\Debug\net7.0\Задача№27.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HW_4\Задача№27\obj\Debug\net7.0\Задача№27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HW_4\Задача№27\obj\Debug\net7.0\Задача№27.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HW_4\Задача№27\obj\Debug\net7.0\Задача№27.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HW_4\Задача№27\obj\Debug\net7.0\Задача№27.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HW_4\Задача№27\obj\Debug\net7.0\Задача№27.dll
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HW_4\Задача№27\obj\Debug\net7.0\refint\Задача№27.dll
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HW_4\Задача№27\obj\Debug\net7.0\Задача№27.pdb
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HW_4\Задача№27\obj\Debug\net7.0\Задача№27.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HW_4\Задача№27\obj\Debug\net7.0\ref\Задача№27.dll
